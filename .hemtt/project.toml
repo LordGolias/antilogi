@@ -1,0 +1,8 @@
+name = "AL"
+prefix = "al"
+mainprefix = "z"
+
+[files]
+include = [
+    "description.ext"
+]
